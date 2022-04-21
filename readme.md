@@ -9,7 +9,7 @@ Agora é so clicar em "create repository".⚡
 
 Adicionando arquivos no repositorio:
 
-Para que possamos adionar arquivos no nosso recem criado repositorio no github iremos usar o Git, caso não tenha instalado está aqui o link para download : https://git-scm.com/ .
+Para que possamos adicionar arquivos no nosso recem criado repositorio no github iremos usar o Git, caso não tenha instalado está aqui o link para download : https://git-scm.com/ .
 
 Com uma pasta criada e com os arquivos que você deseja subir dentro, iremos abri-la, clique com o botao direito do mause e selecione "git bash here", com o terminal do git aberto vamos cadastrar nossas credenciais com "git config --global user.email'seu email.com'  " e para o nome "user.name ' seu nome ' ".
 Logo apos digite "git init" para criar o repositorio local em sua pasta, em seguida um "git add . " , um "git status"  para mostrar os arquivos dentro da pasta que foram adicionados, em seguida "git comit -m 'primeiro repositorio' ", para comitar.
